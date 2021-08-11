@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GraysonNocera
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, obviously
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me - gnocera@purdue.edu
