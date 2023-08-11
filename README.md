@@ -1,6 +1,5 @@
 - Hi, I’m @GraysonNocera
-- I’m interested in software development and data analysis
-- I’m currently learning Machine Learning and TensorFlow
+- I’m interested in software engineering
 - I’m looking to collaborate on anything!
 - How to reach me - gnocera@purdue.edu
 
